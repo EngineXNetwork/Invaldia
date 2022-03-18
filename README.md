@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <a href="https://discord.gg/thingsunblocks">
-        <img src="https://img.shields.io/discord/419123358698045453?style=for-the-badge&logo=discord"
+        <img src="https://img.shields.io/discord/938248997095743509?style=for-the-badge&logo=discord"
             alt="chat on Discord"></a>
 </p>
 <p align="center">
