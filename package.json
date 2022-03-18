@@ -1,34 +1,19 @@
 {
-  "name": "invaldia",
-  "version": "1.5.0",
+  "name": "Invaldia",
+  "version": "1.0.0",
   "description": "Surf The Web With Invaldia At Anytime!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ."
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EngineXNetwork/Invaldia.git"
-  },
-  "keywords": [
-    "proxy",
-    "bypass",
-    "unblocked-websites",
-    "unblocker",
-    "unblock",
-    "unblocked-games",
-    "invaldia",
-    "iboss"
-  ],
-  "author": "Flopaa",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/EngineXNetwork/Invaldia/issues"
-  },
-  "homepage": "https://github.com/EngineXNetwork/Invaldia#readme",
+  "author": "Floppa",
   "dependencies": {
-    "bare-server-node": "github:tomphttp/bare-server-node",
-    "node-static": "^0.7.11"
+    "acorn-hammerhead": "^0.5.0",
+    "bootstrap": "^3.4.1",
+    "corrosion": "^1.0.0",
+    "css-tree": "^1.1.3",
+    "express": "^4.17.1",
+    "parse5": "^6.0.1",
+    "webpack": "^5.58.1"
   }
 }
