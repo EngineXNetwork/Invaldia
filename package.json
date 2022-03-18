@@ -1,0 +1,34 @@
+{
+  "name": "invaldia",
+  "version": "1.5.0",
+  "description": "Surf The Web Witj Invaldia At Anytime!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Degen-dev/Degeneracy.git"
+  },
+  "keywords": [
+    "proxy",
+    "bypass",
+    "unblocked-websites",
+    "unblocker",
+    "unblock",
+    "unblocked-games",
+    "invaldia",
+    "iboss"
+  ],
+  "author": "Flopaa",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Degen-dev/Degeneracy/issues"
+  },
+  "homepage": "https://github.com/Degen-dev/Degeneracy#readme",
+  "dependencies": {
+    "bare-server-node": "github:tomphttp/bare-server-node",
+    "node-static": "^0.7.11"
+  }
+}
