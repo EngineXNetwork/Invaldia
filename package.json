@@ -1,7 +1,7 @@
 {
   "name": "invaldia",
   "version": "1.5.0",
-  "description": "Surf The Web Witj Invaldia At Anytime!",
+  "description": "Surf The Web With Invaldia At Anytime!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Degen-dev/Degeneracy.git"
+    "url": "git+https://github.com/EngineXNetwork/Invaldia.git"
   },
   "keywords": [
     "proxy",
@@ -24,9 +24,9 @@
   "author": "Flopaa",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Degen-dev/Degeneracy/issues"
+    "url": "https://github.com/EngineXNetwork/Invaldia/issues"
   },
-  "homepage": "https://github.com/Degen-dev/Degeneracy#readme",
+  "homepage": "https://github.com/EngineXNetwork/Invaldia#readme",
   "dependencies": {
     "bare-server-node": "github:tomphttp/bare-server-node",
     "node-static": "^0.7.11"
